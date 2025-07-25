@@ -25,7 +25,7 @@ This project uses *backtracking* to explore all possible paths recursively. When
 
 ## 🖼 Screenshots
 
-> Add your own screenshots here (drag and drop in GitHub or use ![alt](link) syntax)
+> Add your own screenshots here (drag and drop in GitHub or use ![alt](image1.jpg) syntax)
 
 ---
 
